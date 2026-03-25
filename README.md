@@ -18,5 +18,10 @@
 - Supports full CRUD operations
 - Includes input validation and database constraints
 
+#screenshot of execution:
+1.add student 
+
+
+
 ## 📫 Connect with Me
 - Email:pankajmac17@gmail.com
